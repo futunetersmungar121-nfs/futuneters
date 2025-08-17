@@ -10,3 +10,4 @@ JavaScript   32 mins         █░░░░░░░░░░░░░░░░
 Other        24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
 HTML         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
 ```
+<img width="467" height="195" alt="image" src="https://github.com/user-attachments/assets/b0cee435-8856-4f52-95a3-c459d51c6860" />
